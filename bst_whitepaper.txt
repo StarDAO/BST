@@ -8,7 +8,7 @@ The initial issuance is 100,000,000, no additional issuance is allowed, and the 
 There is no financing and no pre-sale for this project.
 BST will first be traded on the decentralized exchange JustSwap.
 
-Plan to distribute rewards at random times every day according to the rules. The initial allocation time will be announced in advance.
+Plan to distribute rewards every day according to the rules. The initial allocation time will be announced in advance.
 
 3. Product Features
 BST is the abbreviation of Burning, Staking, Trading. Staking here refers to the provision of bst/trx trading pair liquidity and holding BST mining.
