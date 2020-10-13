@@ -14,11 +14,14 @@ Plan to distribute rewards every day according to the rules. The initial allocat
 BST is the abbreviation of Burning, Staking, Trading. Staking here refers to the provision of bst/trx trading pair liquidity and holding BST mining.
 
 rule:
-BST burns 3% per transfer, 6% enters the contract owner account to be allocated, and the target address receives 91%.
+BST burns 1% per transfer, 2% enters the contract owner account to be allocated, and the target address receives 97%.
 
 Part to be allocated
-1. According to random snapshots every day, all accounts holding no less than 30,000 BST will equally share 50% of the reward.
-2. 45% reward liquidity providers, transfer to JustSwap trading pair contract address.
-3. 5% is transferred to the foundation address. Guarantee the long-term development of the project.
+1. 99% reward was used to buy the top 10 BST transactions in JustSwap yesterday with trx.
+1: 32.5% 2: 19.5% 3: 13%
+4-10 5% each
+If the number of people is less than 6, everyone is equally divided.
+
+2. 1% is transferred to the foundation address. Committed to the long-term development of the project.
 
 The rules may be modified according to the actual operating conditions, and an announcement will be issued before the modification.
