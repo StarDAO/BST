@@ -18,7 +18,7 @@ BST burns 1% per transfer, 2% enters the contract owner account to be allocated,
 
 Part to be allocated
 1. 99% reward was used to buy the top 10 BST transactions in JustSwap yesterday with trx.
-1: 32.5% 2: 19.5% 3: 13%
+First place: 32.5% Second place: 19.5% Third place 13%
 4-10 5% each
 If the number of people is less than 6, everyone is equally divided.
 
