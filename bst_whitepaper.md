@@ -17,10 +17,7 @@ rule:
 BST burns 1% per transfer, 2% enters the contract owner account to be allocated, and the target address receives 97%.
 
 Part to be allocated
-1. 99% reward was used to buy the top 10 BST transactions in JustSwap yesterday with trx.
-First place: 32.5% Second place: 19.5% Third place 13%
-4-10 5% each
-If the number of people is less than 6, everyone is equally divided.
+1. According to the number of BST holdings, 99% will reward the top 30 addresses in the same proportion.
 
 2. 1% is transferred to the foundation address. Committed to the long-term development of the project.
 
