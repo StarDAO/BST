@@ -15,7 +15,7 @@ Rewards are distributed every day at 8:00 Singapore time according to the rules.
 
 3. Product Features
 
-BST is the abbreviation of Burning, Staking, Trading. Staking here refers to the provision of bst/trx trading pair liquidity and holding BST mining.
+BST is the abbreviation of Burning, Staking, Trading.
 
 rule:
 BST burns 1% per transfer, 2% enters the contract owner account to be allocated, and the target address receives 97%.
@@ -23,6 +23,6 @@ BST burns 1% per transfer, 2% enters the contract owner account to be allocated,
 Part to be allocated
 1. According to the number of BST holdings, 99% will reward the top 30 addresses in the same proportion.The official address is not involved.
 
-2. 1% is transferred to the foundation address. Committed to the long-term development of the project.
+2. 1% is transferred to the foundation address:TKHCcDMEHok9fuqfNWHP52ERT1K1KSx9zk, This address accepts donations.
 
 The rules may be modified according to the actual operating conditions, and an announcement will be issued before the modification.
