@@ -1,4 +1,5 @@
-<center>BST white paper</center>
+BST white paper
+===============
 
 1. Total issuance
 BST is based on the TRC20 token issued by the TRON network.
