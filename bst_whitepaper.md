@@ -2,16 +2,19 @@ BST white paper
 ===============
 
 1. Total issuance
+
 BST is based on the TRC20 token issued by the TRON network.
 The initial issuance is 100,000,000, no additional issuance is allowed, and the total amount burned per transfer is reduced.
 
 2. Distribution rules
+
 There is no financing and no pre-sale for this project.
 BST is traded on the decentralized exchange JustSwap.
 
 Rewards are distributed every day at 8:00 Singapore time according to the rules.
 
 3. Product Features
+
 BST is the abbreviation of Burning, Staking, Trading. Staking here refers to the provision of bst/trx trading pair liquidity and holding BST mining.
 
 rule:
