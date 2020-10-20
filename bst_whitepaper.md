@@ -1,4 +1,4 @@
-BST white paper
+<center>BST white paper</center>
 
 1. Total issuance
 BST is based on the TRC20 token issued by the TRON network.
@@ -17,7 +17,7 @@ rule:
 BST burns 1% per transfer, 2% enters the contract owner account to be allocated, and the target address receives 97%.
 
 Part to be allocated
-1. According to the number of BST holdings, 99% will reward the top 30 addresses in the same proportion.
+1. According to the number of BST holdings, 99% will reward the top 30 addresses in the same proportion.The official address is not involved.
 
 2. 1% is transferred to the foundation address. Committed to the long-term development of the project.
 
