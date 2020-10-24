@@ -18,7 +18,7 @@ Rewards are distributed every day at 8:00 Singapore time according to the rules.
 BST is the abbreviation of Burning, Staking, Trading.
 
 rule:
-BST burns 1% per transfer, 2% enters the contract owner account to be allocated, and the target address receives 97%.
+BST burns 3% per transfer, 6% enters the contract owner account to be allocated, and the target address receives 91%.
 
 Part to be allocated
 1. According to the number of BST holdings, 99% will reward the top 30 addresses in the same proportion.The official address is not involved.
