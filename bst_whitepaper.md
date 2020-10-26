@@ -9,7 +9,7 @@ The initial issuance is 100,000,000, no additional issuance is allowed, and the 
 2. Distribution rules
 
 There is no financing and no pre-sale for this project.
-BST is traded on the decentralized exchange JustSwap.
+BST is traded on the decentralized exchange JustSwap，contract:TTw9QhSVAMp2ummFKx1qVhmbSXi8xfvzE3.
 
 Rewards are distributed every day at 8:00 Singapore time according to the rules.
 
